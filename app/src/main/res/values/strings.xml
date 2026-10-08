@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DevChrome Browser</string>
+    <string name="search_or_type_url">Search or type URL</string>
+    <string name="devtools_title">Developer Tools (F12)</string>
+    <string name="console_tab">Console</string>
+    <string name="elements_tab">Elements</string>
+    <string name="network_tab">Network</string>
+    <string name="storage_tab">Storage</string>
+    <string name="performance_tab">Performance</string>
+    <string name="source_tab">Sources</string>
+    <string name="adblock_title">Ad &amp; Tracker Blocker</string>
+    <string name="dark_mode_title">Dark Mode</string>
+    <string name="offline_downloader_title">Full Site Downloader</string>
+    <string name="saved_sites_title">Saved Websites Archive</string>
+    <string name="new_tab">New Tab</string>
+    <string name="close_tab">Close Tab</string>
+    <string name="history">History</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="desktop_site">Desktop Site</string>
+    <string name="settings">Settings</string>
+</resources>

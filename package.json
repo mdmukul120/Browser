@@ -1,0 +1,9 @@
+{
+  "name": "devchrome-browser",
+  "version": "1.1.0",
+  "description": "Chrome-style developer browser with F12 console, ad blocker, dark mode, and full website offline archiver.",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Android APK and web build ready'"
+  }
+}

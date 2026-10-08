@@ -1,0 +1,6 @@
+{
+  "name": "DevChrome Browser",
+  "description": "Chrome-style developer browser with F12 devtools console, ad blocker, dark mode, and full website offline archiver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
