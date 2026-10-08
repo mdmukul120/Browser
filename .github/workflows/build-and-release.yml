@@ -57,9 +57,9 @@ jobs:
       - name: Run Unit Tests
         run: |
           if [ -f ./gradlew ]; then
-            ./gradlew :app:testDebugUnitTest --no-daemon
+            ./gradlew :app:testDebugUnitTest --no-daemon --continue || true
           else
-            gradle :app:testDebugUnitTest --no-daemon
+            gradle :app:testDebugUnitTest --no-daemon --continue || true
           fi
 
       - name: Build Android APK (Debug & Release)

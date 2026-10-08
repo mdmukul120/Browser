@@ -18,6 +18,7 @@ import com.example.model.BrowserSettings
 import com.example.model.UserAgentType
 import com.example.viewmodel.BrowserViewModel
 
+@Suppress("DEPRECATION")
 @SuppressLint("SetJavaScriptEnabled")
 @Composable
 fun WebViewController(
